@@ -1,6 +1,8 @@
 name: fullscreenvideoplayer
-description: Full screen video player, with convenient management tools
+description:
+  Full-screen video player with convenient management tools and fine-tuning video progress with use horizontal drags
 version: 1.0.1
+homepage: https://github.com/Leeeeerich/full_screen_video_player
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
